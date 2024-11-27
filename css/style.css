@@ -7,7 +7,7 @@ body{
 }
 
 .heading{
-    text-align:left;
+    text-align: center;
 
 }
 .recipes {
@@ -24,14 +24,17 @@ h1{
 }
 .button{
     border-radius: 25px;
+    background-color: white;
 }
-
 p {
     padding: 5px 15px;
-    font-size: 30px;
+    font-size: 20px;
     margin: 0%;
     font-weight: lighter;
-    font-variant: small-caps;
+    font-variant: petite-caps;
 }
+
+
+
 
 
