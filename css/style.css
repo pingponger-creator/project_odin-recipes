@@ -1,0 +1,39 @@
+body{
+    height: 100vh;
+    background-image: url(../images/background-image_alt.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading{
+    text-align:left;
+
+}
+.recipes {
+    text-align: center;
+  
+}
+
+h1{
+    height: 500px;
+    width: 200px;
+    padding: 35px 25px;
+    font-size: 30px;
+    
+    font-weight: lighter;
+    font-variant: small-caps;
+  
+
+}
+.button{
+    border-radius: 25px;
+}
+
+p {
+    padding: 5px 15px;
+    font-size: 30px;
+    margin: 0%;
+    font-weight: lighter;
+    font-variant: small-caps;
+}
+
